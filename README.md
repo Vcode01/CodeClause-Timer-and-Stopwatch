@@ -1,11 +1,11 @@
-#Timer and Stopwatch
+# Timer and Stopwatch
 This is a simple Timer and Stopwatch application built using HTML, CSS, and JavaScript. The Timer allows you to set a countdown and the Stopwatch allows you to measure elapsed time.
 
-#Features
+# Features
 Timer: Set a specific time duration and start the countdown.
 Stopwatch: Start, pause, and reset the stopwatch to measure elapsed time.
 
-#Technologies Used
+# Technologies Used
 HTML
 CSS
 JavaScript
@@ -13,12 +13,15 @@ Vanilla JS
 Files
 The project consists of the following files:
 
-index.html: The main HTML file that contains the structure of the application.
-design.css: The CSS file that defines the styles and layout of the application.
-stopwatch.js: The JavaScript file that implements the functionality of the Timer and Stopwatch.
-tilt.js and vanilla-tilt-js: The JavaScript file that vanilla js functionalities for animations.
+> index.html: The main HTML file that contains the structure of the application.
+> 
+> design.css: The CSS file that defines the styles and layout of the application.
+> 
+> stopwatch.js: The JavaScript file that implements the functionality of the Timer and Stopwatch.
+> 
+> tilt.js and vanilla-tilt-js: The JavaScript file that vanilla js functionalities for animations.
 
-#Usage
+# Usage
 To use the Timer and Stopwatch application, follow these steps:
 
 Clone the repository or download the project files.
@@ -28,6 +31,6 @@ To use the Stopwatch, click the "Start" button to start the stopwatch.
 Use the "Pause" button to temporarily pause the stopwatch, and the "Reset" button to reset it.
 The stopwatch will display the elapsed time in hours, minutes, seconds, and milliseconds.
 
-#Acknowledgements
+# Acknowledgements
 The project was developed using HTML, CSS, and JavaScript.
 Thanks to the open-source community for their valuable contributions and resources.
